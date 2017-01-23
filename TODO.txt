@@ -1,0 +1,26 @@
+
+--- TO DO ---
+
+2. Better tools
+	a. 3x3 pickaxe
+	b. 3x3 shovel
+	c. lumber axe?
+	d. hoe sucks, maybe 3x3
+
+3. In game documentation
+	a. Book which tells about all mod items
+	b. Include crafting recipes etc...
+
+4. More items!
+	a. Chest which repairs tools
+		different tiers?
+	b. TNT cannon!
+	c. Knockback stick!
+
+--- DONE ---
+
+1. More config settings
+	a. Remove certain rings
+	b. Change growth ring radius
+	c. Armor configs	
+	d. Config GUI!

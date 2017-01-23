@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gemcraft",
+  "name": "Gem Craft",
+  "description": "A mod which adds new gems to the game. These can be used to craft tools, armor, rings, and more!",
+  "version": "1.10.2-1.2.5",
+  "mcversion": "1.10.2",
+  "url": "https://minecraft.curseforge.com/projects/gem-craft",
+  "updateUrl": "",
+  "authorList": ["XavierNyte"],
+  "credits": "Created by XavierNyte",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,32 @@
+1.2.3:
+
+Added average rings
+	Potion Rings: apply different potion effects while on hotbar
+	Lightning Ring: summons lightning where the player is looking
+
+Added durability to some rings
+
+Added creative tab for rings
+
+1.2.4:
+
+Added:
+	Time Ring: Right click to make it day, shift right click to make it night
+	Blink Ring: Teleports the player to wherever they are looking (max 32 blocks)
+	Flight Ring: Allows creative flight with this item in the player's inventory
+	Growth Ring: Right click to apply bonemeal in a 3x3 area
+
+Changed tooltip for chestplate (fire resistance, not strength)
+
+FIXED:
+	Putting on armor no longer crashes the client when playing on a server(yay)!
+
+1.2.5: Config update!
+
+Added config options:
+	Enable/Disable all rings
+	Change growth ring radius (default 1: 3x3)
+	Enable/Disable Gem Armor
+	Enable/Disable Gem Armor effects
+
+Added in-game config (Mods --> Gem Craft --> Config)

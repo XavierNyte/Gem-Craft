@@ -1,0 +1,113 @@
+// Creative Tabs
+itemGroup.Rings=Rings
+
+// ITEMS
+item.sapphire.name=Sapphire
+item.ruby.name=Ruby
+item.amethyst.name=Amethyst
+item.reinforced_amethyst.name=Reinforced Amethyst
+item.whitegold_ingot.name=White Gold Ingot
+item.whitegold_nugget.name=White Gold Nugget
+item.armor_core.name=Armor Core
+
+// TOOLS
+item.sapphire_sword.name=Sapphire Sword
+item.ruby_sword.name=Ruby Sword
+item.amethyst_sword.name=Amethyst Sword
+item.emerald_sword.name=Emerald Sword
+item.reinforced_amethyst_sword.name=Reinforced Amethyst Sword
+
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.amethyst_pickaxe.name=Amethyst Pickaxe
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.reinforced_amethyst_pickaxe.name=Reinforced Amethyst Pickaxe
+
+item.sapphire_axe.name=Sapphire Axe
+item.ruby_axe.name=Ruby Axe
+item.amethyst_axe.name=Amethyst Axe
+item.emerald_axe.name=Emerald Axe
+item.reinforced_amethyst_axe.name=Reinforced Amethyst Axe
+
+item.sapphire_spade.name=Sapphire Shovel
+item.ruby_spade.name=Ruby Shovel
+item.amethyst_spade.name=Amethyst Shovel
+item.emerald_spade.name=Emerald Shovel
+item.reinforced_amethyst_spade.name=Reinforced Amethyst Shovel
+
+item.sapphire_hoe.name=Sapphire Hoe
+item.ruby_hoe.name=Ruby Hoe
+item.amethyst_hoe.name=Amethyst Hoe
+item.emerald_hoe.name=Emerald Hoe
+item.reinforced_amethyst_hoe.name=Reinforced Amethyst Hoe
+
+// ARMOR
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chestplate.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots
+
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.amethyst_helmet.name=Amethyst Helmet
+item.amethyst_chestplate.name=Amethyst Chestplate
+item.amethyst_leggings.name=Amethyst Leggings
+item.amethyst_boots.name=Amethyst Boots
+
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+
+item.gem_helmet.name=Gem Helmet
+item.gem_chestplate.name=Gem Chestplate
+item.gem_leggings.name=Gem Leggings
+item.gem_boots.name=Gem Boots
+
+// BASIC RINGS
+item.basic_ring.name=Basic Ring
+item.torch_ring.name=Torch Ring
+item.water_ring.name=Water Ring
+item.lava_ring.name=Lava Ring
+item.void_ring.name=Void Ring
+
+// AVERAGE RINGS
+item.average_ring.name=Average Ring
+item.lightning_ring.name=Lightning Ring
+item.speed_ring.name=Speed Ring
+item.haste_ring.name=Haste Ring
+item.strength_ring.name=Strength Ring
+item.jump_ring.name=Jump Ring
+item.regen_ring.name=Regeneration Ring
+item.resistance_ring.name=Resistance Ring
+item.fresistance_ring.name=Fire Resistance Ring
+item.wresistance_ring.name=Water Breathing Ring
+item.nightvision_ring.name=Night Vision Ring
+item.growth_ring.name=Growth Ring
+
+// ADVANCED RINGS
+item.advanced_ring.name=Advanced Ring
+item.blink_ring.name=Blink Ring
+item.acceleration_ring.name=Acceleration Ring
+item.flight_ring.name=Flight Ring
+item.time_ring.name=Time Ring
+
+// BLOCKS
+tile.sapphire.name=Sapphire Block
+tile.ruby.name=Ruby Block
+tile.amethyst.name=Amethyst Block
+tile.whitegold.name=White Gold Block
+
+tile.sapphire_ore.name=Sapphire Ore
+tile.ruby_ore.name=Ruby Ore
+tile.amethyst_ore.name=Amethyst Ore
+tile.whitegold_ore.name=White Gold Ore
+tile.nether_whitegold_ore.name=Nether White Gold Ore
+tile.end_whitegold_ore.name=End White Gold Ore
+
+// GUIFACTORY
+gui.gemCraftConfiguration.mainTitle=Gem Craft Configuration
+gui.gemCraftConfiguration.ctgy.general=General

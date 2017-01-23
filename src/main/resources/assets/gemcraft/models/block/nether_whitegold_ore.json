@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "gemcraft:blocks/nether_whitegold_ore"
+    }
+}

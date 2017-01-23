@@ -1,0 +1,1 @@
+gradlew steupDecompworkspace && gradlew eclipse
